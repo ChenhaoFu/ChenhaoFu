@@ -1,35 +1,38 @@
-ion.
-Split Unified
-  4  
-README.md
-  
+@@ -1,23 +1,23 @@
+<pre>
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
+     
+<strong>Hi, I am MasonFu!👋 </strong>
+<strong>A full stack developer from China🇨🇳. </strong>
 
-@@ -1,4 +1,6 @@
- ![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Monash-UAS-Banner.jpg)
- <!---![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Monash-UAS-Banner.jpg)--->
+ </pre> 
 
- ![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Alwin.svg)
+ <img width="100%" alt="game gif" src="https://qny.volcanoblog.cn/github-contribution-grid-snake.svg"/>
+ <img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
 
- <p align="center">
-     <a href="https://github.com/alwinw" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/alwinrwang" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://www.researchgate.net/profile/Alwin_Wang" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-    <a href="https://orcid.org/0000-0003-4883-2917" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/5782687/alwin" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
-    <a href="https://stackexchange.com/users/4446338/alwin" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
-</p>
-<p align="center">
-    <a href="https://github.com/alwinw?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-</p>
-<p align="center">
-    <a href="https://github.com/alwinw?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/alwinw" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/alwinw/alwinw?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-0 comments on commit 6a60408
-@ChenhaoFu
-Write  
+ ### ⭐️ &nbsp;Github Star
+
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MasonFu&count_private=true&show_icons=true"/>
+### 🛠 &nbsp;Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
+![Koa.js](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=koa.js)
+![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
+### 🤝🏻 &nbsp;Connect with Me
+<a href="mailto:dwyaneswift@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-dwyaneswift@163.com-blue?style=flat-square&logo=gmail"></a>
+### 🛳 &nbsp;Your ticket ID for this visit
+<img src="https://profile-counter.glitch.me/MasonFu/count.svg" />
+
+   
